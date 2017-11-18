@@ -1,0 +1,1197 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"falg",
+				"flag_session"
+			],
+			[
+				"flag",
+				"flag_session"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"text",
+				"text-right \tBootstrap 4 Class"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"alig",
+				"align-items-center \tBootstrap 4 Class"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"align-sel",
+				"align-self-lg-center \tBootstrap 4 Class"
+			],
+			[
+				"al",
+				"align-middle \tBootstrap 4 Class"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"justify-content",
+				"justify-content-center \tBootstrap 4 Class"
+			],
+			[
+				"ht",
+				"htmlspecialchars"
+			],
+			[
+				"align",
+				"align-content-center \tBootstrap 4 Class"
+			],
+			[
+				"ali",
+				"align-self-center \tBootstrap 4 Class"
+			],
+			[
+				"align-self",
+				"align-self-center \tBootstrap 4 Class"
+			],
+			[
+				"contai",
+				"container-fluid \tBootstrap 4 Class"
+			],
+			[
+				"container",
+				"container-fluid \tBootstrap 4 Class"
+			],
+			[
+				"index",
+				"indexMenu"
+			],
+			[
+				"class",
+				"className\t: DOMString Element"
+			],
+			[
+				"round",
+				"rounded \tBootstrap 4 Class"
+			],
+			[
+				"fixe",
+				"fixed-top \tBootstrap 4 Class"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"justify",
+				"justify-content-center \tBootstrap 4 Class"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"envoi",
+				"envoiMail"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"php",
+				"php\t<?php … ?>"
+			],
+			[
+				"conten",
+				"align-content-center \tBootstrap 4 Class"
+			],
+			[
+				"col",
+				"col-lg-12 \tBootstrap 4 Class"
+			],
+			[
+				"alo",
+				"align-top \tBootstrap 4 Class"
+			],
+			[
+				"rou",
+				"rounded \tBootstrap 4 Class"
+			],
+			[
+				"aqua",
+				"mediumaquamarine"
+			],
+			[
+				"bg",
+				"bg-primary \tBootstrap 4 Class"
+			],
+			[
+				"rounded",
+				"rounded-circle \tBootstrap 4 Class"
+			],
+			[
+				"m",
+				"m-md-auto \tBootstrap 4 Class"
+			],
+			[
+				"text-c",
+				"text-center \tBootstrap 4 Class"
+			],
+			[
+				"te",
+				"text-center \tBootstrap 4 Class"
+			],
+			[
+				"mb",
+				"mb-5 \tBootstrap 4 Class"
+			],
+			[
+				"tex",
+				"Texte"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"node",
+				"nodeName\t: DOMString Node"
+			],
+			[
+				"getElem",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Element"
+			],
+			[
+				"getele",
+				"getElementsByTagName\t( localName: DOMString ): HTMLCollection Document"
+			],
+			[
+				"target",
+				"targetSection"
+			],
+			[
+				"actua",
+				"actualId"
+			],
+			[
+				"att",
+				"attr"
+			],
+			[
+				"nbr",
+				"nbrDeElements"
+			],
+			[
+				"nom",
+				"nomDeZone"
+			],
+			[
+				"remo",
+				"removeChild\t( child: Node ): Node Node"
+			],
+			[
+				"fla",
+				"flagRemove"
+			],
+			[
+				"tabCode",
+				"tabCodeATester"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"code",
+				"codeATrouver"
+			],
+			[
+				"tab",
+				"tabCodeNavette"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"ligh",
+				"lightgray"
+			],
+			[
+				"gr",
+				"gray"
+			],
+			[
+				"emp",
+				"text-emphasis"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"btn-grou",
+				"btn-group-sm \tBootstrap 4 Class"
+			],
+			[
+				"btn-group",
+				"btn-group-lg \tBootstrap 4 Class"
+			],
+			[
+				"removeC",
+				"removeClass"
+			],
+			[
+				"moue",
+				"mouseover"
+			],
+			[
+				"col-lg-",
+				"col-lg-2 \tBootstrap 4 Class"
+			],
+			[
+				"mx",
+				"mx-auto \tBootstrap 4 Class"
+			],
+			[
+				"im",
+				"align-items-md-center \tBootstrap 4 Class"
+			],
+			[
+				"justif",
+				"justify-content-center \tBootstrap 4 Class"
+			],
+			[
+				"nav",
+				"navbar \tBootstrap 4 Class"
+			],
+			[
+				"co",
+				"col-lg-6 \tBootstrap 4 Class"
+			],
+			[
+				"person",
+				"personne1"
+			],
+			[
+				"localS",
+				"localStorage"
+			],
+			[
+				"on",
+				"onload\t: EventHandler FileReader"
+			],
+			[
+				"loca",
+				"localStorage\t: Storage Window"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"setI",
+				"setItem\t( key: DOMString, value: DOMString ): void Storage"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"get",
+				"getItems\t( typeNames?: DOMString ): NodeList Document"
+			],
+			[
+				"obj",
+				"Object\t( value?: any ): Object Object"
+			],
+			[
+				"arra",
+				"Array\t( size: int ): Array Array"
+			],
+			[
+				"jal",
+				"jalerte2"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"getE",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Element"
+			],
+			[
+				"child",
+				"childElementCount\t: unsigned long Element"
+			],
+			[
+				"appen",
+				"appendChild\t( node: Node ): Node Node"
+			],
+			[
+				"crea",
+				"createElement\t( localName: DOMString ): Element Document"
+			],
+			[
+				"getEle",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"monBou",
+				"monBouton2"
+			],
+			[
+				"boutonCo",
+				"boutonColor"
+			],
+			[
+				"indexo",
+				"indexOf"
+			],
+			[
+				"tabCo",
+				"tabCodeNavette"
+			],
+			[
+				"bt",
+				"btn-success \tBootstrap 4 Class"
+			],
+			[
+				"flex",
+				"flex-row \tBootstrap 4 Class"
+			],
+			[
+				"d-md",
+				"d-md-flex \tBootstrap 4 Class"
+			],
+			[
+				"col-lg",
+				"col-lg-4 \tBootstrap 4 Class"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"justi",
+				"justify-content-center \tBootstrap 4 Class"
+			],
+			[
+				"bg-d",
+				"bg-faded \tBootstrap 4 Class"
+			],
+			[
+				"chil",
+				"childNodes\t: NodeList Node"
+			],
+			[
+				"btn-success",
+				"btn-success \tBootstrap 4 Class"
+			],
+			[
+				"my-",
+				"my-1 \tBootstrap 4 Class"
+			],
+			[
+				"mr-",
+				"mr-5 \tBootstrap 4 Class"
+			],
+			[
+				"tabAlea",
+				"tabAleatoireBis"
+			],
+			[
+				"align-",
+				"align-content-center \tBootstrap 4 Class"
+			],
+			[
+				"col-",
+				"col-lg-7 \tBootstrap 4 Class"
+			],
+			[
+				"align-ite",
+				"align-items-center \tBootstrap 4 Class"
+			],
+			[
+				"eleme",
+				"elementToSupp"
+			],
+			[
+				"parent",
+				"parentNode\t(): Node TreeWalker"
+			],
+			[
+				"elemen",
+				"elementsAdded"
+			],
+			[
+				"remove",
+				"removeChild\t( child: Node ): Node Node"
+			],
+			[
+				"nomDe",
+				"nomDeClasse"
+			],
+			[
+				"getEl",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Document"
+			],
+			[
+				"lg-",
+				"col-lg-7 \tBootstrap 4 Class"
+			],
+			[
+				"titre",
+				"titreChanged"
+			],
+			[
+				"chg",
+				"chgStyleOneElement"
+			],
+			[
+				"set",
+				"setTimeout\t( handler: any, timeout?: long, arguments_..: any ): long Window"
+			],
+			[
+				"text-prima",
+				"text-primary"
+			],
+			[
+				"fontS",
+				"fontSize\t = '' Style CSS"
+			],
+			[
+				"fontSi",
+				"fontSize\t = 'x-large' Style CSS"
+			],
+			[
+				"fonts",
+				"fontSize\t = 'xx-large' Style CSS"
+			],
+			[
+				"monBout",
+				"monBouton1"
+			],
+			[
+				"ml",
+				"ml-2 \tBootstrap 4 Class"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"trouve",
+				"trouveMoyenne"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 516,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "controllers/articleslist.php",
+			"settings":
+			{
+				"buffer_size": 430,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/articleslist.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			]
+		],
+		"width": 540.0
+	},
+	"console":
+	{
+		"height": 370.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/Projets/Groupe/pg20171117-mini-blog/site",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/Projets/Groupe/pg20171117-mini-blog/site/controllers",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/Projets/Groupe/pg20171117-mini-blog/site/views"
+	],
+	"file_history":
+	[
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/Projets/Groupe/pg20171117-mini-blog/site/index.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/Projets/Groupe/pg20171117-mini-blog/site/controlers/listedesarticles.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/mvs/Cour MVC Franck/methodes/users.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/mvs/Cour MVC Franck/vues/listedesmails.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/mvs/Cour MVC Franck/vues/formulaire.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/mvs/Cour MVC Franck/index.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/mvs/Cour MVC Franck/methodes/mails.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/mvs/Cour MVC Franck/methodes/ClassUserQuery.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/mvs/Cour MVC Franck/methodes/ClassUser.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/mvs/Cour MVC Franck/controleurs/formulaire.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/mvs/Cour MVC Franck/controleurs/listedesmails.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/mysql/Démo Admin Franck/controleur/listedesmails.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/mysql/Démo Admin Franck/methodes/mails.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/mysql/Démo Admin Franck/vues/formulaire.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/mysql/Démo Admin Franck/controleur/formulaire.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/mysql/Démo Admin Franck/readme.txt",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/mvs/gestion_mail/controlers/véhicule.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/admin1/inc/verif_auth_inc.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/admin1/liste_messages.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/admin1/index.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/admin2/deux.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/admin2/index.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/admin1/deviant_index.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/admin1/auth.php",
+		"/C/wamp64/logs/php_error.log",
+		"/C/wamp64/logs/apache_error.log",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/admin1/toto.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/admin1/inc/admin_func_inc.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/admin1/css/style.css",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/admin1/viewliste.php",
+		"/C/wamp64/logs/access.log",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/admin1/Notes MySQL.txt",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/admin1/affiche_variables_server.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/admin1/test2.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/admin1/effacerligne.php",
+		"/C/wamp64/bin/apache/apache2.4.27/conf/httpd.conf",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/admin1/js/script.js",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/admin1/inc/conf_site_inc.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/admin1/authent2.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/admin1/testroot.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/admin1/test trigger",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/.htpasswd",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/admin1/zzz.htaccess",
+		"/C/wamp64/logs/mysql.log",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/admin1/t_messages.csv",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/admin1/generator.csv",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/admin/index.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/js/script.js",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/admin/effacerligne.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/admin/viewliste.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/admin/t_messages.csv",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/inc/verif_send_mail.inc.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/index.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/inc/slide.inc.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/inc/maps.inc.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/css/style.css",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/inc/accueil.inc.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/inc/presEquipe.inc.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/inc/presMetiers.inc.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/inc/presFormation.inc.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/inc/functions.inc.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/inc/verif_send_mail.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/inc/test.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/jquery/20171026 - JQuery bis/js/jq20171026.js",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/template index.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/toto.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/inc/presTechnos.inc.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/Lucie/css/style.css",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/inc/nav.inc.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/inc/functions_inc.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/inc_maxime/slide.inc.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/inc_maxime/accueil.inc.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/inc_maxime/maps.inc.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Projet de Groupe/pjg4-20171106/www/slide.txt",
+		"/C/wamp64/barimage.bmp",
+		"/C/wamp64/scripts/wampserver.lib.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171030/inc/functions_inc.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171030/index.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171030/pages/projets.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171030/pages/contact.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171030/inc/footer_inc.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171030/pages/accueil.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171030/inc/menu_inc.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171030/inc/header_inc.php",
+		"/C/wamp64/bin/apache/apache2.4.27/bin/php.ini",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171030/inc/functions.inc.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171031/index.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171030/contact.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171030/accueil.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171030/pages/404.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171030/js/redirect.js",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171030/inc/envoiMail.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171030/projets.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171030/pages.txt",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171030/css/style.css",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171030/test.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171030/js/script.js",
+		"/C/wamp64/www/projet1/index.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171030/index.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171027/css/style.css",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171027/index.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171027/php/script.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171025/index3.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171025/php/verif.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/jquery/20171026 - JQuery bis/css/style.css",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/jquery/20171026 - JQuery bis/index.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/javascript/20171013 - Mastermind/js/js20171013.js",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/javascript/20171013 - Mastermind/css/js20171013.css",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/javascript/20171012 - Events/js20171012.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/javascript/20171017 - Objets & Liste de Courses/js20171017.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/javascript/20171013 - Mastermind/js20171013.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/javascript/20171012 - Events/js/js20171012.js",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/javascript/20171013 - Mastermind/test boutons.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/javascript/20171017 - Objets & Liste de Courses/js/js20171017bis.js",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/javascript/20171017 - Objets & Liste de Courses/js/js20171017.js",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/jquery/20171019 - JQuery/js/jquery-3.2.1.slim.min.js",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/jquery/20171019 - JQuery/js/jq20171019.js",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171024/js/script.js",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171024/index.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171024/css/style.css",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171024/files/ligues.csv",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171024/files/ligues.txt",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171023/index.php",
+		"/C/wamp64/bin/apache/apache2.4.27/conf/extra/httpd-vhosts.conf",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171024/index.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171023/css/style.css",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171023/subtext20171023.sublime-project",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/html & css/html - 00_Initial/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 516,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								208,
+								208
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										208,
+										209
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										193,
+										194
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "controllers/articleslist.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								269,
+								269
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										426,
+										427
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										268,
+										269
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "views/articleslist.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "",
+	"project": "pg20171117-mini-blog.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\UTILISATEUR\\Documents\\AFORMAC - DLEGER\\SITES & EXERCICES\\php\\php20171030\\Exemple_Gilles_30102017\\Exemple_Gilles_20171030.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
