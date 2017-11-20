@@ -4,7 +4,7 @@
 
 	//Connexion base de données (bdd_miniblog / admin_miniblog / Ten96wabuQ10sztU)
 	try{
-		$bdd = new PDO('mysql:host=localhost;dbname=bdd_miniblog', 'admin_miniblog', 'Ten96wabuQ10sztU');
+		$bdd = new PDO('mysql:host=localhost;dbname=bdd_miniblog', 'root', '');
 	}
 	catch(Exception $e){
 		die('Erreur : '.$e->getMessage());
