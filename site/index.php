@@ -23,7 +23,9 @@
 <!DOCTYPE html>
 	<html>
 		<head>
+
 			<title>Accueil du Blog</title>
+
 			<meta charset="utf-8">
 			<!-- Latest compiled and minified CSS -->
 			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -33,13 +35,42 @@
 
 			<!-- Latest compiled and minified JavaScript -->
 			<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+			<style type="text/css" src="./css/style.css"></style>
 		</head>
+
+
+
 		<body>
 			<main>
-				<ul class="nav nav-tabs">
-				  <li role="presentation" class="active"><a href="#">Catégories</a></li>
-				  <li role="presentation"><a href="#">Connexion</a></li>
-				</ul>
+				<nav class="navbar navbar-default">
+				  <div class="container-fluid">
+				       <!-- Collect the nav links, forms, and other content for toggling -->
+				    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				      <ul class="nav navbar-nav">
+				        <li class="dropdown">
+				          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Catégories <span class="caret"></span></a>
+				          <ul class="dropdown-menu">
+				            <li><a href="#">Action</a></li>
+				            <li><a href="#">Another action</a></li>
+				            <li><a href="#">Something else here</a></li>
+				            <li role="separator" class="divider"></li>
+				            <li><a href="#">Separated link</a></li>
+				            <li role="separator" class="divider"></li>
+				            <li><a href="#">One more separated link</a></li>
+				          </ul>
+				        </li>
+				      </ul>
+				      <ul class="nav navbar-nav navbar-right">
+
+				       <!-- Brand and toggle get grouped for better mobile display -->
+				    <div class="navbar-header">
+				    	<a role="button" class="navbar-brand" href="#">Connexion</a>
+				    </div>
+
+				      </ul>
+				    </div><!-- /.navbar-collapse -->
+				  </div><!-- /.container-fluid -->
+				</nav>
 			</main>
 			
 		</body>
