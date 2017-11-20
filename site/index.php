@@ -24,7 +24,7 @@
 	<html>
 		<head>
 
-			<title>Accueil du Blog</title>
+			<title style="background-color: orange;">Accueil du Blog</title>
 
 			<meta charset="utf-8">
 			<!-- Latest compiled and minified CSS -->
@@ -35,6 +35,7 @@
 
 			<!-- Latest compiled and minified JavaScript -->
 			<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
 			<style type="text/css" src="./css/style.css"></style>
 		</head>
 
