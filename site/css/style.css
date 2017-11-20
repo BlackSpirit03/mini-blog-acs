@@ -1,7 +1,26 @@
-#Categories{
-	float: left;
+/*@media screen and(max-width: 640px){
+}*/
+
+/*@media screen and (max-width:980px){
+}*/
+
+body{
+	width: 100%;
+	margin:0;
+	padding: 0;
 }
 
-#Connexion{
-	float: right;
+#article{
+	display: inline-block;
+	vertical-align: top;	
+}
+
+.points{
+	width: 3%;
+	left: 80%;
+	bottom: 20%;
+}
+
+.points:hover{
+	color: blue;
 }
