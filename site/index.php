@@ -36,7 +36,10 @@
 		</head>
 		<body>
 			<main>
-				
+				<ul class="nav nav-tabs">
+				  <li role="presentation" class="active"><a href="#">Catégories</a></li>
+				  <li role="presentation"><a href="#">Connexion</a></li>
+				</ul>
 			</main>
 			
 		</body>
