@@ -1,8 +1,8 @@
 /*@media screen and(max-width: 640px){
 }*/
 
-/*@media screen and (max-width:980px){
-}*/
+@media screen and (max-width:980px){
+}
 
 body{
 	width: 100%;
@@ -11,7 +11,7 @@ body{
 }
 
 img{
-	text-align:center;
+	
 }
 
 .articles{
