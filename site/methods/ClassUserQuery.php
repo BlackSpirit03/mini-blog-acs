@@ -2,12 +2,13 @@
 
 class ClassUserQuery
 {
-	
-public function getUser($id){
 	private $_email;
-	private $_password;
-	private $_nom;
-	private $_prenom;
+    private $_password;
+    private $_nom;
+    private $_prenom;
+    
+public function getUser($id){
+
 	}
 
     public function getEmail()

@@ -5,7 +5,7 @@
 
 	//
 	$usersquery = new ClassUserQuery($bdd);
-	$user = $usersquery->getUser($_POST['user'], $_POST['mdp']);
+	$user = $usersquery->getUser($_POST['email'], $_POST['password']);
 
 	//Test si 1 Auteur est connecté
 	if($user){
