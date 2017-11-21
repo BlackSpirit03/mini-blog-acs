@@ -6,13 +6,17 @@
 
 body{
 	width: 100%;
-	margin:0;
+	margin:auto;
 	padding: 0;
 }
 
-#article{
+img{
+	text-align:center;
+}
+
+.articles{
 	display: inline-block;
-	vertical-align: top;	
+	width: 45%;	
 }
 
 .points{
@@ -23,4 +27,8 @@ body{
 
 .points:hover{
 	color: blue;
+}
+
+i{
+	margin-left: 50%;
 }

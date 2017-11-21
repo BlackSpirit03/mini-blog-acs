@@ -74,13 +74,13 @@
 			</main>
 
 			<section class="articles">
-				<section id="article">
+				<section id="article1">
 		       		<img src="./img/photopardefaut.jpg"><br><br>
 		            <figcaption>Coucher de Soleil</figcaption>
 		            <i class="fa fa-ellipsis-v" aria-hidden="true" style="font-size:24px"></i>
 				</section>
 
-				<section id="article">
+				<section id="article2">
 		       		<img src="./img/photopardefaut.jpg"><br><br>
 		            <figcaption>Coucher de Soleil</figcaption>
 		           	<i class="fa fa-ellipsis-v" aria-hidden="true" style="font-size:24px"></i>
