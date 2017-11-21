@@ -10,14 +10,6 @@
 		die('Erreur : '.$e->getMessage());
 	}
 
-	//Affichage de la page nécessaire
-	if (empty($_GET["page"])){
-		require_once "./controllers/userauth.php";
-	}else{
-		if ($_GET['page'] == 'articleslist') {
-				require_once "./controllers/articleslist.php";
-			}
-	}
 ?>
 
 <!DOCTYPE html>
@@ -64,7 +56,7 @@
 
 				       <!-- Brand and toggle get grouped for better mobile display -->
 				    <div class="navbar-header">
-				    	<a role="button" class="navbar-brand" href="#">Connexion</a>
+				    	<a role="button" class="navbar-brand" href="./views/formauth.php">Connexion</a>
 				    </div>
 
 				      </ul>
@@ -88,7 +80,16 @@
 
 
 			</section>
-
+<?php
+	//Affichage de la page nécessaire
+	if (empty($_GET["page"])){
+		require_once "./controllers/userauth.php";
+	}else{
+		if ($_GET['page'] == 'articleslist') {
+				require_once "./controllers/articleslist.php";
+			}
+	}
+	?>
 		</body>
 	</html>
 
