@@ -12,19 +12,14 @@ html, body{
 
 #article1, #article2{
 	display: inline-block;
-	width: 49%;
-}
-
-figcaption{
-	 margin:5%;
-
+	width: 47%;
+	margin-left: 2%;
 }
 
 .fa{
 	width: 3%;
 	position: relative;
-	left: 80%;
-	bottom: 20%;
+	left: 60%;
 }
 
 .fa:hover{
