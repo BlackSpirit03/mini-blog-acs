@@ -1,34 +1,32 @@
 /*@media screen and(max-width: 640px){
 }*/
 
-/*@media screen and (max-width:980px){
-}*/
+@media screen and (max-width:980px){
+}
 
-body{
+html, body{
 	width: 100%;
-	margin:auto;
+	margin: 0;
 	padding: 0;
 }
 
-img{
-	text-align:center;
-}
-
-.articles{
+#article1, #article2{
 	display: inline-block;
-	width: 45%;	
+	width: 49%;
 }
 
-.points{
+figcaption{
+	 margin:5%;
+
+}
+
+.fa{
 	width: 3%;
+	position: relative;
 	left: 80%;
 	bottom: 20%;
 }
 
-.points:hover{
-	color: blue;
-}
-
-i{
-	margin-left: 50%;
+.fa:hover{
+	color: orange;
 }
